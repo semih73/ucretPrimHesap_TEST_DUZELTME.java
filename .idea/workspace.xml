@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dfd1ed5-bb61-40a3-bf74-a3b53b66fa25" name="Changes" comment="Ders18 ODEV5 testi 2 bölüm testng xml dosyası ile">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/UcretFormul.java" afterDir="false" />
+    <list default="true" id="9dfd1ed5-bb61-40a3-bf74-a3b53b66fa25" name="Changes" comment="Ders18 ODEV5 testi 2 bölüm testng xml dosyası ile_SON Eklemeler">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ucretPrimHesap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ucretPrimHesap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/exampleTest/PrimHesapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/exampleTest/PrimHesapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/exampleTest/PrimHesapTestDP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/exampleTest/PrimHesapTestDP.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +54,7 @@
     "Application.Main.executor": "Run",
     "Application.org.exampleTest.Main.executor": "Run",
     "Application.ucretPrimHesap.executor": "Run",
+    "Maven.ODEV5 [test].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -77,7 +76,7 @@
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.PrimHesapTest">
+  <component name="RunManager" selected="TestNG.PrimHesapTestDP">
     <configuration name="ucretPrimHesap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ucretPrimHesap" />
       <module name="ODEV5" />
@@ -155,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PrimHesapTestDP" />
         <item itemvalue="TestNG.PrimHesapTest" />
         <item itemvalue="TestNG.PrimHesapTest.UcretPrimli" />
         <item itemvalue="Application.ucretPrimHesap" />
         <item itemvalue="TestNG.C:/Users/semih_dinler/IdeaProjects/ODEV5/src/Testng.xml" />
-        <item itemvalue="TestNG.PrimHesapTestDP" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707920043319</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ders18 ODEV5 testi 2 bölüm testng xml dosyası ile_SON Eklemeler">
+      <option name="closed" value="true" />
+      <created>1708270799521</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708270799521</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,7 +210,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ders18 ODEV5 testi 2 bölüm testng xml dosyası ile" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ders18 ODEV5 testi 2 bölüm testng xml dosyası ile" />
+    <MESSAGE value="Ders18 ODEV5 testi 2 bölüm testng xml dosyası ile_SON Eklemeler" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ders18 ODEV5 testi 2 bölüm testng xml dosyası ile_SON Eklemeler" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -215,7 +223,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/org/exampleTest/PrimHesapTestDP.java</url>
-          <line>14</line>
+          <line>13</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
