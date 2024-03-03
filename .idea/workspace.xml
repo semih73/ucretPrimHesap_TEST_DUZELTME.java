@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dfd1ed5-bb61-40a3-bf74-a3b53b66fa25" name="Changes" comment="Ders18 ODEV5 testi 2 bölüm testng xml dosyası ile_SON Eklemeler">
+    <list default="true" id="9dfd1ed5-bb61-40a3-bf74-a3b53b66fa25" name="Changes" comment="Ders18 ODEV5 testi 2 bölüm testng xml dosyası ile_SON Eklemeler2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/exampleTest/PrimHesapTestDP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/exampleTest/PrimHesapTestDP.java" afterDir="false" />
     </list>
@@ -68,7 +68,7 @@
     "TestNG.PrimHesapTestDP.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/semih_dinler/IdeaProjects/ODEV5_duzeltme",
+    "last_opened_file_path": "C:/Users/semih_dinler/IdeaProjects/ODEV5",
     "onboarding.tips.debug.path": "C:/Users/semih_dinler/IdeaProjects/ODEV5/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -76,7 +76,7 @@
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.PrimHesapTestDP">
+  <component name="RunManager" selected="TestNG.PrimHesapTest">
     <configuration name="ucretPrimHesap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ucretPrimHesap" />
       <module name="ODEV5" />
@@ -154,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.PrimHesapTestDP" />
         <item itemvalue="TestNG.PrimHesapTest" />
+        <item itemvalue="TestNG.C:/Users/semih_dinler/IdeaProjects/ODEV5/src/Testng.xml" />
+        <item itemvalue="TestNG.PrimHesapTestDP" />
         <item itemvalue="TestNG.PrimHesapTest.UcretPrimli" />
         <item itemvalue="Application.ucretPrimHesap" />
-        <item itemvalue="TestNG.C:/Users/semih_dinler/IdeaProjects/ODEV5/src/Testng.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708270799521</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ders18 ODEV5 testi 2 bölüm testng xml dosyası ile_SON Eklemeler2">
+      <option name="closed" value="true" />
+      <created>1708273800034</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708273800034</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,7 +219,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ders18 ODEV5 testi 2 bölüm testng xml dosyası ile" />
     <MESSAGE value="Ders18 ODEV5 testi 2 bölüm testng xml dosyası ile_SON Eklemeler" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ders18 ODEV5 testi 2 bölüm testng xml dosyası ile_SON Eklemeler" />
+    <MESSAGE value="Ders18 ODEV5 testi 2 bölüm testng xml dosyası ile_SON Eklemeler2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ders18 ODEV5 testi 2 bölüm testng xml dosyası ile_SON Eklemeler2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
